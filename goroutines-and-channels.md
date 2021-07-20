@@ -1,6 +1,6 @@
 # Goroutines and Channels
 
-Concurrent vs Parallel  
+Concurrent vs Parallel definations  
   
 Concurrent: Individual parts of the program run independently at different times.  
 Parallel: Individual parts of the program run independently at the same time.  
